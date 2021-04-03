@@ -2,6 +2,7 @@
 Learning Certificates Repository
 
 ## Microsoft Power BI
+![alt text]()
 
 ## Microsoft Excel
 
