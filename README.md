@@ -2,6 +2,8 @@
 Learning Certificates Repository
 
 ## Table of Contents
+- [Information Visualization Specialization](#Information-Visualization-Specialization)
+  * [Foundations](#Foundations)
 - [Microsoft Power BI](#Microsoft-Power-BI)
   * [Power BI Essential Training](#Power-BI-Essential-Training)
   * [Learning Power BI Desktop](#Learning-Power-BI-Desktop)
@@ -16,6 +18,10 @@ Learning Certificates Repository
   * [SQL Integration Services](#SQL-Integration-Services)
   * [SharePoint Online Essential Training The Basics](#SharePoint-Online-Essential-Training-The-Basics)
   * [SharePoint Online Essential Training Beyond the Basics](#SharePoint-Online-Essential-Training-Beyond-the-Basics)
+
+## Information Visualization Specialization
+### Foundations
+![alt text](https://github.com/Zelong-Chen/Certificates/blob/main/Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
 
 ## Microsoft Power BI
 ### Power BI Essential Training
