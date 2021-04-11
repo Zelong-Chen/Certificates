@@ -21,7 +21,7 @@ Learning Certificates Repository
 
 ## Information Visualization Specialization
 ### Foundations
-![](https://github.com/Zelong-Chen/Certificates/blob/main/Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
+![](Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
 
 ## Microsoft Power BI
 ### Power BI Essential Training
