@@ -5,33 +5,33 @@ Learning Certificates Repository
 - [Information Visualization Specialization](#information-visualization-specialization)
   * [Foundations](#foundations)
 - [Microsoft Power BI](#microsoft-power-bi)
-  * [Power BI Essential Training](#Power-BI-Essential-Training)
-  * [Learning Power BI Desktop](#Learning-Power-BI-Desktop)
-  * [Learning Microsoft Power BI Desktop](#Learning-Microsoft-Power-BI-Desktop)
-  * [Advanced Microsoft Power BI](#Advanced-Microsoft-Power-BI)
-- [Microsoft Excel](#Microsoft-Excel)
-  * [Excel Essential Training](#Excel-Essential-Training)
-  * [Excel Advanced Formulas and Functions](#Excel-Advanced-Formulas-and-Functions)
-  * [Excel PivotTables Mastering PivotTables and PivorCharts](#Excel-PivotTables-Mastering-PivotTables-and-PivorCharts)
-- [Microsoft Apps](#Microsoft-Apps)
-  * [Microsoft SQL Server 2019 Essential Training](#Microsoft-SQL-Server-2019-Essential-Training)
-  * [SQL Integration Services](#SQL-Integration-Services)
-  * [SharePoint Online Essential Training The Basics](#SharePoint-Online-Essential-Training-The-Basics)
-  * [SharePoint Online Essential Training Beyond the Basics](#SharePoint-Online-Essential-Training-Beyond-the-Basics)
+  * [Power BI Essential Training](#power-bi-essential-training)
+  * [Learning Power BI Desktop](#learning-power-bi-desktop)
+  * [Learning Microsoft Power BI Desktop](#learning-microsoft-power-bi-desktop)
+  * [Advanced Microsoft Power BI](#advanced-microsoft-power-bi)
+- [Microsoft Excel](#microsoft-excel)
+  * [Excel Essential Training](#excel-essential-training)
+  * [Excel Advanced Formulas and Functions](#excel-advanced-formulas-and-functions)
+  * [Excel PivotTables Mastering PivotTables and PivotCharts](#excel-pivottables-mastering-pivottables-and-pivotCharts)
+- [Microsoft Apps](#microsoft-apps)
+  * [Microsoft SQL Server 2019 Essential Training](#microsoft-sql-server-2019-essential-training)
+  * [SQL Integration Services](#sql-integration-services)
+  * [SharePoint Online Essential Training The Basics](#sharepoint-online-essential-training-the-basics)
+  * [SharePoint Online Essential Training Beyond the Basics](#sharepoint-online-essential-training-beyond-the-basics)
 
 ## Information Visualization Specialization
 ### Foundations
-![](Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
+![alt text](Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
 
 ## Microsoft Power BI
 ### Power BI Essential Training
-![alt text](/Power%20BI/Power%20BI%20Essential%20Training.PNG)
+![alt text](Power%20BI/Power%20BI%20Essential%20Training.PNG)
 ### Learning Power BI Desktop
-![alt text](/Power%20BI/Learning%20Power%20BI%20Desktop.PNG)
+![alt text](Power%20BI/Learning%20Power%20BI%20Desktop.PNG)
 ### Learning Microsoft Power BI Desktop
-![alt text](https://github.com/Zelong-Chen/Certificates/blob/main/Power%20BI/Learning%20Microsoft%20Power%20BI%20Desktop.PNG)
+![alt text](Learning%20Microsoft%20Power%20BI%20Desktop.PNG)
 ### Advanced Microsoft Power BI
-![alt text](https://github.com/Zelong-Chen/Certificates/blob/main/Power%20BI/Advanced%20Microsoft%20Power%20BI.PNG)
+![alt text](Power%20BI/Advanced%20Microsoft%20Power%20BI.PNG)
 
 ## Microsoft Excel
 ### Excel Essential Training
