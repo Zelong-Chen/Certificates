@@ -2,7 +2,7 @@
 Learning Certificates Repository
 
 ## Table of Contents
-- [Information Visualization Specialization](#Information-Visualization-Specialization)
+- [Information Visualization Specialization](#information-visualization-specialization)
   * [Foundations](#Foundations)
 - [Microsoft Power BI](#Microsoft-Power-BI)
   * [Power BI Essential Training](#Power-BI-Essential-Training)
