@@ -21,7 +21,7 @@ Learning Certificates Repository
 
 ## Information Visualization Specialization
 ### Foundations
-![](/Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
+![](Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
 
 ## Microsoft Power BI
 ### Power BI Essential Training
