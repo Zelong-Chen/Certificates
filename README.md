@@ -27,7 +27,7 @@ Learning Certificates Repository
 ### Power BI Essential Training
 ![alt text](/Power%20BI/Power%20BI%20Essential%20Training.PNG)
 ### Learning Power BI Desktop
-![alt text](https://github.com/Zelong-Chen/Certificates/blob/main/Power%20BI/Learning%20Power%20BI%20Desktop.PNG)
+![alt text](/Power%20BI/Learning%20Power%20BI%20Desktop.PNG)
 ### Learning Microsoft Power BI Desktop
 ![alt text](https://github.com/Zelong-Chen/Certificates/blob/main/Power%20BI/Learning%20Microsoft%20Power%20BI%20Desktop.PNG)
 ### Advanced Microsoft Power BI
