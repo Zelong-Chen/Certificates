@@ -5,6 +5,7 @@ Learning Certificates Repository
 - [Information Visualization Specialization](#information-visualization-specialization)
   * [Foundations](#foundations)
 - [Microsoft Power BI](#microsoft-power-bi)
+  * [Microsoft Ignite Data Analyst Challenge](#microsoft-ignite-data-analyst-challenge)
   * [Power BI Essential Training](#power-bi-essential-training)
   * [Learning Power BI Desktop](#learning-power-bi-desktop)
   * [Learning Microsoft Power BI Desktop](#learning-microsoft-power-bi-desktop)
@@ -24,6 +25,8 @@ Learning Certificates Repository
 ![alt text](Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
 
 ## Microsoft Power BI
+### Microsoft Ignite Data Analyst Challenge
+![alt text](Power%20BI/Microsoft%20Ignite%20Data%20Analyst%20Challenge.PNG)
 ### Power BI Essential Training
 ![alt text](Power%20BI/Power%20BI%20Essential%20Training.PNG)
 ### Learning Power BI Desktop
