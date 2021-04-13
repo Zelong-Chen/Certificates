@@ -1,6 +1,3 @@
-# Certificates
-Learning Certificates Repository
-
 ## Table of Contents
 - [Information Visualization Specialization](#information-visualization-specialization)
   * [Foundations](#foundations)
