@@ -1,3 +1,4 @@
+# Certificates
 ## Table of Contents
 - [Information Visualization Specialization](#information-visualization-specialization)
   * [Foundations](#foundations)
