@@ -2,6 +2,7 @@
 ## Table of Contents
 - [Information Visualization Specialization](#information-visualization-specialization)
   * [Foundations](#foundations)
+  * [Applied Perception](#applied-perception)
 - [Microsoft Power BI](#microsoft-power-bi)
   * [Microsoft Ignite Data Analyst Challenge](#microsoft-ignite-data-analyst-challenge)
   * [Power BI Essential Training](#power-bi-essential-training)
@@ -21,6 +22,8 @@
 ## Information Visualization Specialization
 ### Foundations
 ![alt text](Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
+### Applied Perception
+![alt text](Information%20Visualization%20Specialization/Information%20Visualization%20(Applied%20Perception).PNG)
 
 ## Microsoft Power BI
 ### Microsoft Ignite Data Analyst Challenge
