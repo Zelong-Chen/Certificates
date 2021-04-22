@@ -3,6 +3,7 @@
 - [Information Visualization Specialization](#information-visualization-specialization)
   * [Foundations](#foundations)
   * [Applied Perception](#applied-perception)
+  * [Programming with D3.js](#programming-with-d3.js)
 - [Microsoft Power BI](#microsoft-power-bi)
   * [Microsoft Ignite Data Analyst Challenge](#microsoft-ignite-data-analyst-challenge)
   * [Power BI Essential Training](#power-bi-essential-training)
@@ -24,6 +25,8 @@
 ![alt text](Information%20Visualization%20Specialization/Information%20Visualization%20(Foundations).PNG)
 ### Applied Perception
 ![alt text](Information%20Visualization%20Specialization/Information%20Visualization%20(Applied%20Perception).PNG)
+### Programming with D3.js
+![alt text](Information%20Visualization%20Specialization/Information%20Visualization%20(Programming%20with%20D3.js).PNG)
 
 ## Microsoft Power BI
 ### Microsoft Ignite Data Analyst Challenge
