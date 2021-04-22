@@ -3,7 +3,7 @@
 - [Information Visualization Specialization](#information-visualization-specialization)
   * [Foundations](#foundations)
   * [Applied Perception](#applied-perception)
-  * [Programming with D3.js](#programming-with-d3.js)
+  * [Programming with D3.js](#programming-with-d3js)
 - [Microsoft Power BI](#microsoft-power-bi)
   * [Microsoft Ignite Data Analyst Challenge](#microsoft-ignite-data-analyst-challenge)
   * [Power BI Essential Training](#power-bi-essential-training)
